@@ -15,7 +15,7 @@ html, body {
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background: url('./tennis-champion.png') no-repeat center center/cover;
+  background: url('./tennis.webp') no-repeat center center/cover;
   min-height: 100vh;
   color: white;            
 }
